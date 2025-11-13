@@ -26,9 +26,12 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 3 notebooks available here to showcase work related to the above questions. 
+1. BootcampStats.ipynb which performs analysis to understand the effect of whether or not a respondent attended bootcamp or not.
+2. HowToBreakIntoTheField.ipynb which explores the pieces of advice given by respondents on how to break in the field of Software Engineering
+3. Salary.ipynb which uses a Linear Regression model to predict salary based on features of the respondents.
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There is an additional file, 'Salary_ML.py' that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
